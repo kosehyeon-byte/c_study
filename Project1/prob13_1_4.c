@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 int main() {
@@ -15,6 +16,8 @@ int main() {
 	for (int i = 0; i < 2*halfn; i++) {
 		printf("%d ", *(ptr1 + i));
 	}
-	
+
 	return 0;
 }
+*/
+

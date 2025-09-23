@@ -126,6 +126,14 @@
     <ClCompile Include="prob13_1_1.c" />
     <ClCompile Include="prob13_1_3.c" />
     <ClCompile Include="prob13_1_4.c" />
+    <ClCompile Include="prob14_1_1.c" />
+    <ClCompile Include="prob14_1_2.c" />
+    <ClCompile Include="prob15_1.c" />
+    <ClCompile Include="prob15_2.c" />
+    <ClCompile Include="prob15_3.c" />
+    <ClCompile Include="prob15_4.c" />
+    <ClCompile Include="prob15_5.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

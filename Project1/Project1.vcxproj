@@ -137,7 +137,6 @@
     <ClCompile Include="prob16_1_2.c" />
     <ClCompile Include="prob16_1_3.c" />
     <ClCompile Include="prob17_1.c" />
-    <ClCompile Include="prob17_1_another.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

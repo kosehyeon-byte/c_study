@@ -60,5 +60,14 @@
     <ClCompile Include="prob17_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prob18__1_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prob_18_1_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArgcArgv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

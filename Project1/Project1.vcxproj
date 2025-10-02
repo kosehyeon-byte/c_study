@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArgcArgv.c" />
     <ClCompile Include="prob13_1_1.c" />
     <ClCompile Include="prob13_1_3.c" />
     <ClCompile Include="prob13_1_4.c" />
@@ -137,6 +138,8 @@
     <ClCompile Include="prob16_1_2.c" />
     <ClCompile Include="prob16_1_3.c" />
     <ClCompile Include="prob17_1.c" />
+    <ClCompile Include="prob18__1_1.c" />
+    <ClCompile Include="prob_18_1_3.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

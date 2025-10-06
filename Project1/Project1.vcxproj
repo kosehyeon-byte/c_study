@@ -139,6 +139,8 @@
     <ClCompile Include="prob16_1_3.c" />
     <ClCompile Include="prob17_1.c" />
     <ClCompile Include="prob18__1_1.c" />
+    <ClCompile Include="prob20_1.c" />
+    <ClCompile Include="prob20_2.c" />
     <ClCompile Include="prob_18_1_3.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>

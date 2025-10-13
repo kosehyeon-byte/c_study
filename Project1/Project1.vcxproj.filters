@@ -75,5 +75,17 @@
     <ClCompile Include="prob20_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prob20_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prob20_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prob20_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prob20_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

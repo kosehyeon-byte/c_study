@@ -87,5 +87,11 @@
     <ClCompile Include="prob20_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ReadWriteChar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prob21_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

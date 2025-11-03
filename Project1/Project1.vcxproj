@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="23_1.c" />
+    <ClCompile Include="23_2.c" />
     <ClCompile Include="ArgcArgv.c" />
     <ClCompile Include="prob13_1_1.c" />
     <ClCompile Include="prob13_1_3.c" />
@@ -146,6 +148,11 @@
     <ClCompile Include="prob20_5.c" />
     <ClCompile Include="prob20_6.c" />
     <ClCompile Include="prob21_1.c" />
+    <ClCompile Include="prob21_2_1.c" />
+    <ClCompile Include="prob21_2_2.c" />
+    <ClCompile Include="prob21_2_3.c" />
+    <ClCompile Include="prob22_1.c" />
+    <ClCompile Include="prob22_2.c" />
     <ClCompile Include="prob_18_1_3.c" />
     <ClCompile Include="ReadWriteChar.c" />
     <ClCompile Include="test.c" />

@@ -120,5 +120,17 @@
     <ClCompile Include="24-1-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="24-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25-2-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25-2-1_ans.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25-2-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

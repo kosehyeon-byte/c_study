@@ -130,6 +130,9 @@
     <ClCompile Include="25-2-1.c" />
     <ClCompile Include="25-2-1_ans.c" />
     <ClCompile Include="25-2-2.c" />
+    <ClCompile Include="26-1-1.c" />
+    <ClCompile Include="26-1-2.c" />
+    <ClCompile Include="26-1-3.c" />
     <ClCompile Include="ArgcArgv.c" />
     <ClCompile Include="FirstFileWrite.c" />
     <ClCompile Include="prob13_1_1.c" />

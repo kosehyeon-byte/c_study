@@ -1,5 +1,3 @@
-#name : yoon
-#id : 111111
-#phone : 010
-#food : noodle
-#hobby : soccer
+ASTRO alfei	Plkfei		soeivn	AOEI
+Poeifni
+AEOIVOIN

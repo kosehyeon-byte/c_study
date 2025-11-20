@@ -133,8 +133,16 @@
     <ClCompile Include="26-1-1.c" />
     <ClCompile Include="26-1-2.c" />
     <ClCompile Include="26-1-3.c" />
+    <ClCompile Include="28-1.c" />
+    <ClCompile Include="28-2.c" />
+    <ClCompile Include="28-3.c" />
+    <ClCompile Include="28-4.c" />
+    <ClCompile Include="28-5.c" />
     <ClCompile Include="ArgcArgv.c" />
     <ClCompile Include="FirstFileWrite.c" />
+    <ClCompile Include="func.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="num.c" />
     <ClCompile Include="prob13_1_1.c" />
     <ClCompile Include="prob13_1_3.c" />
     <ClCompile Include="prob13_1_4.c" />
@@ -165,6 +173,10 @@
     <ClCompile Include="prob_18_1_3.c" />
     <ClCompile Include="ReadWriteChar.c" />
     <ClCompile Include="test.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header1.h" />
+    <ClInclude Include="header2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
